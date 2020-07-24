@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.e3fc04e1.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.4bd4901c.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.4bd4901c.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.354f34ae.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.354f34ae.js.map",
+    "static/js/2.f20292b9.chunk.js": "/my-portfolio/static/js/2.f20292b9.chunk.js",
+    "static/js/2.f20292b9.chunk.js.map": "/my-portfolio/static/js/2.f20292b9.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.f3cead2bf354a1d9b85e45802e99062e.js": "/my-portfolio/precache-manifest.f3cead2bf354a1d9b85e45802e99062e.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.e3fc04e1.chunk.css.map": "/my-portfolio/static/css/main.e3fc04e1.chunk.css.map",
+    "static/js/2.f20292b9.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.f20292b9.chunk.js.LICENSE.txt",
+    "static/media/arcade.jpg": "/my-portfolio/static/media/arcade.9ab6b52c.jpg",
+    "static/media/bike.jpg": "/my-portfolio/static/media/bike.76029a67.jpg",
+    "static/media/coding.jpg": "/my-portfolio/static/media/coding.017a5d95.jpg",
+    "static/media/game.jpg": "/my-portfolio/static/media/game.43fd3e51.jpg",
+    "static/media/hill-path.jpg": "/my-portfolio/static/media/hill-path.c1f76401.jpg",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/resume2020.pdf": "/my-portfolio/static/media/resume2020.a78c3ebb.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.354f34ae.js",
+    "static/js/2.f20292b9.chunk.js",
+    "static/css/main.e3fc04e1.chunk.css",
+    "static/js/main.4bd4901c.chunk.js"
+  ]
+}
